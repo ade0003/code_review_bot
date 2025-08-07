@@ -1,1 +1,2 @@
-import os/nprint(   'hello' )
+import os
+print('hello')
